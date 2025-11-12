@@ -2,4 +2,13 @@
 // import "./tipos/arrays";
 // import "./tipos/enums.js";
 // import "./tipos/enums_const.js";
-import "./tipos/enums_tipos.js";
+// import "./tipos/enums_tipos.js";
+// import "./tipos/funcoes";
+// import "./tipos/funcoes_tipo";
+// import "./tipos/objetos";
+// import "./tipos/desafio_produto";
+// import "./tipos/uniao";
+// import "./tipos/never";
+// import "./tipos/null";
+// import "./tipos/desafio_final";
+import "./tipos/desafio_final_2";
